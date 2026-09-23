@@ -14,3 +14,13 @@ El conjunto de tareas que debemos realizar es
    - Juan
    - Pedro
    - Nicolas
+---  
+   Esta modificacion nos sirve para aprender Markdown pero por ejemplo los titulos <H1> los coloca con una almohadilla
+
+   
+[gregorio fernandez](https://gregoriofer.com)
+
+|1|2|
+|----|------|
+|a|b|
+|c|d|
