@@ -1,3 +1,6 @@
 # eje01-Hola-mundo-26-27
-Primer proyecto realizado en GitHub
-Estamos en el gregorio fernandez
+## Primer proyecto realizado en GitHub
+Estamos en el **gregorio fernandez**
+*Este es un primer proyecto GitHub*
+
+> centro gregorio fernandez 
