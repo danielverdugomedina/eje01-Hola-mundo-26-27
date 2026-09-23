@@ -25,10 +25,10 @@ El conjunto de tareas que debemos realizar es
 |---|---|---|
 |1.0|creacion del readme|Daniel|
 
-Clase de entornos de desarrolo
+Clase de entornos de desarrolo.
 [^1]
 
-[^1]ENTORNOS
+[^1]: ENTORNOS
 
 Valladolid
 : ciudad de españa
