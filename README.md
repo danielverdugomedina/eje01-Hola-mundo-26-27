@@ -22,6 +22,6 @@ El conjunto de tareas que debemos realizar es
 
 
 |version|modificacion|propietario|
-|----|------|-------|
+|---|---|---|
 |1.0|creacion del readme|Daniel|
 
