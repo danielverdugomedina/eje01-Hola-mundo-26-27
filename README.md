@@ -20,7 +20,8 @@ El conjunto de tareas que debemos realizar es
    
 [gregorio fernandez](https://gregoriofer.com)
 
-|1|2|
-|----|------|
-|a|b|
-|c|d|
+
+|version|modificacion|propietario|
+|----|------|-------|
+|1.0|creacion del readme|Daniel|
+
